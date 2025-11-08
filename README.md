@@ -19,7 +19,7 @@ screen -S codeassist
 2. Install UV (Python Packager)
 
 ```bash
-curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | sh
+curl -LsSf https://astral.sh/uv/install.sh
 ```
 
 3. Reload Bash Configuration
@@ -30,7 +30,7 @@ source ~/.bashrc
 
 4. Clone the CodeAssist Repository
 ```bash
-git clone [https://github.com/gensyn-ai/codeassist.git](https://github.com/gensyn-ai/codeassist.git)
+git clone https://github.com/gensyn-ai/codeassist.git
 cd codeassist
 ```
 
