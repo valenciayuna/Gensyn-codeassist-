@@ -4,7 +4,7 @@
 
 This tutorial demonstrates how to run CodeAssist on a VPS. This setup uses port `3001` to avoid potential conflicts with Swarm ports.
 
-> **VPS specifications used:** 4 CPU, 8 GB RAM, 32 GB Swap(as cgpt how to swap your ram to 32.
+> **VPS specifications used:** 4 CPU, 8 GB RAM, 32 GB Swap(ask cgpt how to swap your ram to 32.
 
 ---
 
