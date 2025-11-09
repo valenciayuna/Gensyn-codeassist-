@@ -42,7 +42,7 @@ nano compose.yml
 
 find the 
 3000:3000
-And change it to (changing the host port) 
+And change it to 3001:3000 (changing the host port) 
 Press Ctrl + X, then Y, then Enter to save and exit.
 
 
