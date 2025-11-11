@@ -46,23 +46,9 @@ And change it to 3001:3000 (changing the host port)
 Press Ctrl + X, then Y, then Enter to save and exit.
 
 
-6. Edit the run.py File
-Open the file with the nano editor:
+6.run the program 
 ```bash
-nano run.py
-```
-search this section 
-#expose web ui port
-"3000/tcp": 3000,
-then change to
-"3000/tcp": 3001,
-
-Press Ctrl + X, then Y, then Enter to save and exit.
-
-
-7.run the program 
-```bash
-uv run run.py
+uv run run.py --port 3001
 ```
 
 When prompted, paste your Hugging Face token, then press Enter. (The token input will not be visible in the terminal; this is normal).
